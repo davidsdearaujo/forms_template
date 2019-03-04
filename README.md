@@ -2,8 +2,8 @@
 
 pubspec.yaml
 ```
-  forms_template
-    git
+  forms_template:
+    git:
       url: https://github.com/davidsdearaujo/forms_template
 ```
 
