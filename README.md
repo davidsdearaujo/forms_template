@@ -7,11 +7,11 @@ pubspec.yaml
       url: https://github.com/davidsdearaujo/forms_template
 ```
 
-`import 'package:forms_template/button-template.dart';`
-`import 'package:forms_template/separator-template.dart';`
-`import 'package:forms_template/switch-button-template.dart';`
-`import 'package:forms_template/text-area-template.dart';`
-`import 'package:forms_template/text-field-template.dart';`
+```import 'package:forms_template/button-template.dart';
+import 'package:forms_template/separator-template.dart';
+import 'package:forms_template/switch-button-template.dart';
+import 'package:forms_template/text-area-template.dart';
+import 'package:forms_template/text-field-template.dart';```
 
 
 This project is a starting point for a Dart
